@@ -1,0 +1,20 @@
+# Python & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Keys and credentials
+*.pem
+*.key
+*.pub
+credentials.json
+.env
+
+# Reference & Temporary
+temp_ref/
+generate_architecture.py
+generate_evidence_screenshots.py
+generate_pdf_report.py
+.system_generated/
+*.log
